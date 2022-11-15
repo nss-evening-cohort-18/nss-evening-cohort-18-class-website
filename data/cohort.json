@@ -77,6 +77,19 @@
             "email": "krnorris65@gmail.com",
             "proImg": "KristenNorris.jpg",
             "funImg": "KristenNorris_Fun.jpg"
+        },
+        {
+            "id": 18,
+            "firstName": "Amy",
+            "lastName": "Williams",
+            "reelThemIn": "I will use my experience in applying technologies and knowledge of web software to support the next generation.",
+            "bio": "<p>When I was a child. I was inspired to pursue web software development when my family had a brother who taught students the basics of coding. After I completed some of the basic exercises he gave us, I was hooked. I have explored everything related to software and web development. So much so that I decided to change my career to become a software developer.</p>",
+            "github": "https://github.com/williamslab",
+            "linkedIn": "https://www.linkedin.com/in/amywilliams90",
+            "portfolio": "http://www.amywilliams.com",
+            "email": "amywilliams1990@gmail.com",
+            "proImg": "AmyWilliams.jpg",
+            "funImg": "AmyWilliams_Fun.jpg"
         }
     ]
 }
