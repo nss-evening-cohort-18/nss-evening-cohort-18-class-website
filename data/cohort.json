@@ -77,6 +77,18 @@
             "email": "krnorris65@gmail.com",
             "proImg": "KristenNorris.jpg",
             "funImg": "KristenNorris_Fun.jpg"
+        },
+            {   "id": 18,
+            "firstName": "Nirav",
+            "lastName": "Prajapati",
+            "reelThemIn": "Just me ! I will help many people use code in future",
+            "bio": "<p>I used to learn to code and now they help me a lot in life.</p>",
+            "github": "https://github.com/Niravprajapati1",
+            "linkedIn": "https://linkfree.eddiehub.io/Niravprajapati1",
+            "portfolio": "http://www.niravprajapati9712.github.io/",
+            "email": "niravprajapati97120@gmail.com",
+            "proImg": "niravprajapati.jpg",
+            "funImg": "niravprajapati_Fun.jpg"
         }
     ]
 }
