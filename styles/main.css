@@ -31,14 +31,15 @@ blockquote{
   margin-right: 2em;
 }
 
-#cohort22{
+#cohort18{
     display: inline-block;
-    color: #238193;
+    color: #71799F;
+    font-size: 20px;
 }
 
 #jumbheader{
     box-shadow: 2px 2px 2px rgb(167, 166, 166);
-    background-color: #238193!important;
+    background-color: #823138!important;
     color: lightgray;
 
 }
@@ -49,6 +50,23 @@ blockquote{
     height: 50px;
     color: white;
 
+}
+
+.subtitle-font{
+    font-weight: bold;
+    color: #AF8362;
+    text-align: center;
+    vertical-align: middle;
+    margin-bottom: 20px;
+}
+
+#cohort{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.row{
+    justify-content: center;
 }
 
 .title-font {
@@ -76,11 +94,10 @@ main {
     width: 100%;
     overflow-y: hidden;
     overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
-
-.row{
-    justify-content: center;
-}
 
 .navbar-collapse{
     justify-content: flex-end;
@@ -94,6 +111,15 @@ main {
     box-shadow: 2px 2px 2px lightgray;
     margin: 10px;
     margin-bottom: 25px;
+    background: white;
+}
+
+.col-md-3.cohortMems.hired{
+    border: 1px solid lightgray;
+    border-radius:10px;
+    box-shadow: 2px 2px 2px #823138;
+    margin: 10px;
+    margin-bottom: 25px;    
     background: white;
 }
 
@@ -127,7 +153,35 @@ main {
 .card-img-top{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.image1 {
+    position: absolute;
+    top: 0;
+    left: 0;
   }
+
+.card-body{
+    max-height: 100%;
+    max-width: 100%;    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 16px;
+    padding-right: 16px;
+    min-height: 230px;
+}
+
+.image_off, #home:hover .image_on{
+    display:none
+}
+
+.image_on, #home:hover .image_off{
+    display:block
+}
 
 .col,
 [class*="col-"] {
@@ -139,16 +193,16 @@ main {
     display: block;
   }
 
-  .studentContact{
+.studentContact{
       text-align: center;
       display: flex;
       justify-content: space-evenly;
       -webkit-justify-content: space-evenly;
       margin-bottom: .75rem;
-  }
+}
 
   .contactIcons{
-      color: #238193;
+      color: #71799F;
   }
   .contactIcons:hover{
       transform: scale(1.2);
@@ -156,7 +210,7 @@ main {
 
   .modal-header{
     background-color: lightgray!important;
-    color: #238193;
+    color: #823138;
   }
 
   .modal-body img{
@@ -168,12 +222,13 @@ main {
 
   .backButton{
       margin-bottom: 1.5rem;
+      margin-top: 1.5rem;
   }
 
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
-    background-color: #238193!important;
+    background-color: #71799F!important;
     color: white;
 }
 
@@ -182,37 +237,38 @@ main {
 }
 
 #demo-date a {
-    color: #238193!important;
+    color: #AF8362!important;
+    text-align: center;
 }
 
 button{
     cursor: pointer;
 }
 .btn-outline-primary{
-    color: #238193!important;
-    border-color: #238193!important;
+    color: #AF8362!important;
+    border-color: #AF8362!important;
 }
 
 .btn-outline-primary:hover{
     color: white!important;
-    background-color: #238193!important;
+    background-color: #AF8362!important;
 }
 
 /* adjusts size of contact icons depending on size of card */
-@media (min-width: 992px) and (max-width: 1200px){
+@media (min-width: 1000px) and (max-width: 1200px){
     .fa-3x{
         font-size: 2.5em!important;
       }
 }
 
-@media (min-width: 768px) and (max-width: 991px){
+@media (min-width: 530px) and (max-width: 999px){
     .fa-3x{
         font-size: 2em!important;
       }    
 }
 
 
-@media (max-width: 900px) {
+@media (min-width: 0px) and (max-width: 530px) {
 
     /* body {
         background: url("../assets/images/bg.jpg") repeat;
