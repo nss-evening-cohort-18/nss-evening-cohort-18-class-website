@@ -7,6 +7,12 @@
             "link": "https://www.javascript.com/"
         },
         {
+            "id": 2,
+            "name": "React",
+            "image": "react.png",
+            "link": "https://reactjs.org/"
+        },
+        {
             "id": 3,
             "name": "jQuery",
             "image": "jquery.png",
@@ -25,6 +31,12 @@
             "link": "https://github.com/"
         },
         {
+            "id": 6,
+            "name": "JSON",
+            "image": "json.png",
+            "link": "https://www.json.org/json-en.html"
+        },
+        {
             "id": 7,
             "name": "HTML5",
             "image": "html5.png",
@@ -35,6 +47,12 @@
             "name": "CSS3",
             "image": "css3.png",
             "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
+        },
+        {
+            "id": 9,
+            "name": "Yarn",
+            "image": "yarn.png",
+            "link": "https://yarnpkg.com/package/react"
         },
         {
             "id": 10,
@@ -49,10 +67,22 @@
             "link": "https://firebase.google.com"
         },
         {
+            "id": 13,
+            "name": "DbDiagram",
+            "image": "dbdiagram.png",
+            "link": "https://dbdiagram.io/home"
+        },
+        {
             "id": 14,
             "name": "NPM",
             "image": "npm.png",
             "link": "https://www.npmjs.com/"
+        },
+        {
+            "id": 15,
+            "name": "Postman",
+            "image": "postman.png",
+            "link": "https://www.postman.com/"
         },
         {
             "id": 16,
@@ -95,6 +125,12 @@
             "name": "ES lint",
             "image": "eslint.png",
             "link": "https://eslint.org/"
+        },
+        {
+            "id": 23,
+            "name": "SQL Server Management Studio",
+            "image": "sqlservermanagementstudio.png",
+            "link": "https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16"
         }
     ]
 }
