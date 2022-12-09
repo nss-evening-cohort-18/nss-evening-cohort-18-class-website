@@ -5,13 +5,13 @@
             "firstName": "Christopher",
             "lastName": "Abbondandelo",
             "isHired": false,
-            "reelThemIn": "<p>The Man in the Arena</p>",
+            "reelThemIn": "<p>The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs...<br></br>- Theodore Roosevelt</p>",
             "bio": "<p>Through my experience helping to market SaaS products, I was constantly wondering how they actually worked.  To better communicate the value of the software, I had to gain hands on technical experience and decided to enroll in NSS.  I am thankful for my sales experience, but I am way more excited to be on the 'building' side of things rather than selling. I enjoy building Web APIs, user friendly react applications, and utilizing third party APIs.  When I am not perfecting my technical craft, you can find me tying flies, enjoying a nice bourbon or walking my corgi Daisy!</p>",
             "github": "https://github.com/abbondcj",
             "linkedIn": "https://www.linkedin.com/in/chrisabbondandelo/",
             "portfolio": null,
             "email": "abbondandelo@gmail.com",
-            "proImg": "ChristopherAbbondandelo.jpg",
+            "proImg": "chrisAbbPro.jpg",
             "funImg": "ChristopherAbbondandelo_Fun.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "linkedIn": "https://www.linkedin.com/in/giovanni-barajas-403752219/",
             "portfolio": null,
             "email": "gbarajas2109@gmail.com",
-            "proImg": "GiovanniBarajas.jpg",
+            "proImg": "gioPro.jpg",
             "funImg": "GiovanniBarajas_Fun.jpg"
         },
         {
@@ -33,14 +33,14 @@
             "firstName": "Nathan",
             "lastName": "Blackman",
             "isHired": false,
-            "reelThemIn": null,
-            "bio": null,
+            "reelThemIn": "Programming is pretty cool",
+            "bio": "Programming since high school, finally certified and ready to enter the field after years after 5 years of and honing my skills in the back ground! Getting married in July 2023",
             "github": "https://github.com/NathanBlackman",
             "linkedIn": "https://www.linkedin.com/in/nathan-blackman-979344200/",
             "portfolio": "https://github.com/NathanBlackman",
             "email": "nathanpgblackman@gmail.com",
-            "proImg": "NathanBlackman.jpg",
-            "funImg": "NathanBlackman_Fun.jpg"
+            "proImg": "nathanPro.jpg",
+            "funImg": "nathanPro.jpg"
         },
         {
             "id": 4,
@@ -53,8 +53,8 @@
             "linkedIn": null,
             "portfolio": null,
             "email": "chrisl.brannon@gmail.com",
-            "proImg": "ChrisBrannon.jpg",
-            "funImg": "ChrisBrannon_Fun.jpg"
+            "proImg": "proimageHolder.png",
+            "funImg": "funimageHolder.png"
         },
         {
             "id": 5,
@@ -67,8 +67,8 @@
             "linkedIn": "https://www.linkedin.com/in/mckenzie-byrd/",
             "portfolio": null,
             "email": "mckenziebyrd@me.com",
-            "proImg": "McKenzieByrd.jpg",
-            "funImg": "McKenzieByrd.jpg"
+            "proImg": "mckenziePro.jpg",
+            "funImg": "mckenziePro.jpg"
         },
         {
             "id": 6,
@@ -81,8 +81,8 @@
             "linkedIn": null,
             "portfolio": null,
             "email": null,
-            "proImg": "MichaelClosky.jpg",
-            "funImg": "MichaelClosky_Fun.jpg"
+            "proImg": "proimageHolder.png",
+            "funImg": "funimageHolder.png"
         },
         {
             "id": 7,
@@ -95,8 +95,8 @@
             "linkedIn": "https://www.linkedin.com/in/marcdgiguere/",
             "portfolio": null,
             "email": "mac_gere@yahoo.com",
-            "proImg": "MarcGiguere.jpg",
-            "funImg": "MarcGiguere_Fun.jpg"
+            "proImg": "proimageHolder.png",
+            "funImg": "funimageHolder.png"
         },
         {
             "id": 8,
@@ -109,8 +109,8 @@
             "linkedIn": "https://www.linkedin.com/in/whollahan/",
             "portfolio": null,
             "email": "hollahan.william@gmail.com",
-            "proImg": "WilliamHollahan.jpg",
-            "funImg": "WilliamHollahan.jpg"
+            "proImg": "willH.jpg",
+            "funImg": "willH.jpg"
         },
         {
             "id": 9,
@@ -123,8 +123,8 @@
             "linkedIn": "https://www.linkedin.com/in/rickkersmarki/",
             "portfolio": null,
             "email": "rkersmarki@gmail.com",
-            "proImg": "RickKersmarki.jpg",
-            "funImg": "RickKersmarki.jpg"
+            "proImg": "rickPro.jpg",
+            "funImg": "rickPro.jpg"
         },
         {
             "id": 10,
@@ -137,7 +137,7 @@
             "linkedIn": "https://www.linkedin.com/in/sarahemaginnis/",
             "portfolio": "https://sarahmaginnis.com/software-development/",
             "email": "sarahemaginnis@gmail.com",
-            "proImg": "SarahMaginnis.jpg",
+            "proImg": "sarahPro.jpg",
             "funImg": "SarahMaginnis_Fun.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "linkedIn": null,
             "portfolio": null,
             "email": "estanfill0212@gmail.com",
-            "proImg": "EmilySchroeder.jpg",
+            "proImg": "emilyPro.jpg",
             "funImg": "EmilySchroeder_Fun.jpg"
         },
         {
@@ -165,8 +165,8 @@
             "linkedIn": "https://www.linkedin.com/in/nicstew/",
             "portfolio": null,
             "email": "stewartnick53@icloud.com",
-            "proImg": "NicholasStewart.jpg",
-            "funImg": "NicholasStewart.jpg"
+            "proImg": "nickPro.jpg",
+            "funImg": "nickPro.jpg"
         },
         {
             "id": 13,
@@ -179,7 +179,7 @@
             "linkedIn": "https://www.linkedin.com/in/michael-swoboda-18474666/",
             "portfolio": null,
             "email": "pv2swoboda@gmail.com",
-            "proImg": "MichaelSwoboda.jpg",
+            "proImg": "michaelPro.jpg",
             "funImg": "MichaelSwoboda.jpg"
         },
         {
@@ -193,7 +193,7 @@
             "linkedIn": "http://www.linkedin.com/in/vfwest",
             "portfolio": null,
             "email": "vfwestmoreland@gmail.com",
-            "proImg": "VernonWestmoreland.jpg",
+            "proImg": "wesPro.jpg",
             "funImg": "VernonWestmoreland.jpg"
         },
         {
@@ -207,7 +207,7 @@
             "linkedIn": "https://www.linkedin.com/in/brennangwills/",
             "portfolio": null,
             "email": "brennangwills@gmail.com",
-            "proImg": "BrennanWills.jpg",
+            "proImg": "brennanPro.jpg",
             "funImg": "BrennanWills_Fun.jpg"
         }
     ]

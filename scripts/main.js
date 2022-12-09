@@ -46,9 +46,14 @@ function cohortMembers(list) {
     studentContact += `</div>`
 
     let studentInfo = `<div class="col-md-3 cohortMems">
-          <img class="card-img-top" src="images/classmates/${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
-          <div class="card-body">
-            <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
+          <center><img class="card-img-top" src="images/classmates/${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;"></center>
+          ${item.isHired ? `<center><img id="hired" src="images/hired.png" /></center>` : ``}
+          `
+    // if (item.isHired) {
+    //   studentInfo += `<div><img id="hired" src="images/hired.png" /></div>`
+    // }
+    studentInfo += `<div class="card-body"><h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
+    
     //if student didn't provide a reelthemin quote then nothing is displayed
     if (item.reelThemIn != null) {
       studentInfo += `<p class="card-text">${item.reelThemIn}</p>`
