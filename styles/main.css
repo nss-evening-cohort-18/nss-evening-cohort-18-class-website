@@ -81,6 +81,7 @@ blockquote{
 
 .jumbotron.jumbotron-fluid{
     background: none;
+    width: 100%;
    }
 .jumbotron.jumbotron-fluid img{
     background: none;
@@ -114,6 +115,10 @@ main {
     background: white;
 }
 
+#hired {
+    background: none;
+    width: 30%;
+}
 .col-md-3.cohortMems.hired{
     border: 1px solid lightgray;
     border-radius:10px;
@@ -121,6 +126,8 @@ main {
     margin: 10px;
     margin-bottom: 25px;    
     background: white;
+    min-width: 40%;
+    max-width: fit-content;
 }
 
 .col-sm-2.technologies{
@@ -153,9 +160,10 @@ main {
 .card-img-top{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    position: relative;
-    top: 0;
-    left: 0;
+    height: 283px;
+    width: auto;
+    max-width: 100%;
+
 }
 
 .image1 {
