@@ -47,7 +47,7 @@ function cohortMembers(list) {
 
     let studentInfo = `<div class="col-md-3 cohortMems">
           <center><img class="card-img-top" src="images/classmates/${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;"></center>
-          ${item.isHired ? `<center><img id="hired" src="images/hired.png" /></center>` : ``}
+          ${item.isHired ? `<center><img id="hired" src="images/Hired.png" /></center>` : ``}
           `
     // if (item.isHired) {
     //   studentInfo += `<div><img id="hired" src="images/hired.png" /></div>`
